@@ -1,0 +1,26 @@
+body {
+    background-color: #EBDEF0 !important;
+}
+
+#createlist,
+h1,
+h3 {
+    margin-top: 10vh;
+    color: rgb(65, 65, 65);
+    font-size: 50px;
+    font-weight: medium;
+    text-align: center;
+}
+
+p {
+    margin-top: 4vh;
+    padding-left: 10%;
+    padding-right: 10%;
+    color: rgb(65, 65, 65);
+    font-weight: light;
+    text-align: center;
+}
+
+a {
+    text-decoration: none
+}
